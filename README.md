@@ -1,4 +1,11 @@
-# Nuxt Example
+# <center>This Ribbon [Official Website]
+
+<p align="center">
+  <img src="public/icon.png" alt="Image description" width = 300>
+</p>
+
+
+# Nuxt Application
 
 Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
 

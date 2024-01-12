@@ -2,7 +2,16 @@
 
 * {
     font-family: 'Source Code Pro', monospace;
+    min-width: 0;
+    min-height: 0;
 }
+body{
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 248 230 / var(--tw-bg-opacity));
+    justify-content: center;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
