@@ -1,4 +1,4 @@
-# <center>This Ribbon [Official Website]
+<h1 align="center">This Ribbon [Official Website]</h1>
 
 <p align="center">
   <img src="public/icon.png" alt="Image description" width = 300>
