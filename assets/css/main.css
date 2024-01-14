@@ -19,3 +19,23 @@ body{
 li {
     list-style: none;
 }
+
+::-webkit-scrollbar { 
+    width: 15px; 
+    border: 2px solid blue; 
+} 
+/*tells the browser how the arrows will appear*/ 
+  
+
+::-webkit-scrollbar-thumb { 
+    background: black; 
+}
+::-webkit-scrollbar-track { 
+    --tw-bg-opacity: 1;
+    background-color: rgb(251 113 133 / var(--tw-bg-opacity));
+} 
+
+  
+::-webkit-resizer { 
+    background: pink; 
+} 
